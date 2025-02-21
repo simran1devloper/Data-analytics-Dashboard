@@ -10,6 +10,9 @@ Developed an **interactive Power BI Sales Dashboard** using **Super Sales Data**
 - **Power Query** (for ETL process)
 - **DAX** (for calculated measures & KPIs)
 
+## EDA 
+![Exploratory Data analysis File link](https://github.com/simran1devloper/Data-analytics-Dashboard/blob/main/superstore-revenue-analysis-dataset-eda.ipynb)
+
 ## 🔑 Key Features
 - **ETL Process:** Cleaned and transformed data using **Power Query**.
 - **Data Modeling:** Built calculated measures for **Total Sales, Profit Margins,** and **Sales Growth** using **DAX**.
